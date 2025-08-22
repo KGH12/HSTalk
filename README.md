@@ -39,8 +39,8 @@
     <td align="center"><strong>메시지 및 이모티콘 전송</strong></td>
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/your-screenshot-1.png" alt="채팅방 생성" width="400"/></td>
-    <td><img src="https://i.imgur.com/your-screenshot-2.png" alt="메시지 전송" width="400"/></td>
+    <td><img src="screenshots/채팅방생성.jpg" alt="채팅방 생성" width="400"/></td>
+    <td><img src="screenshots/메시지송수신.jpg" alt="메시지 전송" width="400"/></td>
   </tr>
   <tr>
     <td align="center"><strong>귓속말 및 참여자 확인</strong></td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td><img src="screenshots/귓속말,인원확인.jpg" alt="부가 기능" width="400"/></td>
-    <td><img src="https://i.imgur.com/your-screenshot-4.png" alt="로그 저장" width="400"/></td>
+    <td><img src="screenshots/로그남기기.jpg" alt="로그 저장" width="400"/></td>
   </tr>
 </table>
 
