@@ -47,7 +47,7 @@
     <td align="center"><strong>메시지 로그 저장</strong></td>
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/your-screenshot-3.png" alt="부가 기능" width="400"/></td>
+    <td><img src="screenshots/귓속말,인원확인.jpg" alt="부가 기능" width="400"/></td>
     <td><img src="https://i.imgur.com/your-screenshot-4.png" alt="로그 저장" width="400"/></td>
   </tr>
 </table>
